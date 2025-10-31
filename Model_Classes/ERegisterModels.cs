@@ -2,5 +2,6 @@
 {
     public class ERegisterModels
     {
+        // this is a test comment
     }
 }
